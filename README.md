@@ -1,7 +1,5 @@
 # Text Mining
 
-Translation_with_Transformer.ipynb
-Implementing English-to-German Translation with Transformer
 ---
 BERT5&T5
 
