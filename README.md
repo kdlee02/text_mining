@@ -14,6 +14,10 @@ Dataset: https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarizat
 ROUGE metric is used as evaluation of the summary performance.
 
 ---
+Translation_with_Transformer.ipynb
+Implementing English to German Translation with Transformer
+
+---
 Document Classification
 The BBC Full Text Document Classification Dataset consists of 2,225 documents labeled into 5 categories: tech, business, sport, entertainment, and politics.
 (data is available at https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification/data)
