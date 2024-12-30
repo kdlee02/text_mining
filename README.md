@@ -12,7 +12,8 @@ Dataset: https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarizat
 ROUGE metric is used as evaluation of the summary performance.
 
 ---
-Translation_with_Transformer.ipynb
+Translation_with_Transformer
+
 Implementing English to German Translation with Transformer
 
 ---
@@ -34,7 +35,7 @@ The BBC Full Text Document Classification Dataset consists of 2,225 documents la
 (1)	generating word clouds to visualize the key words for each category.
 
 ---
-
+Word2vec&lstm
 
 This project involves implementing a sentiment analysis model using Word2Vec for word embeddings and LSTM for predictions. The dataset used is available at Kaggle: [Twitter Entity Sentiment Analysis.](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)
 
@@ -49,6 +50,7 @@ Sentiment analysis model using LSTM for training.
 Evaluating the model performance using at least two different hyperparameter combinations.
 
 ---
+Topic_modeling&sentiment_analysis
 
 Topic Modeling
 (Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/blessondensil294/topic-modeling-for-research-articles/data))
